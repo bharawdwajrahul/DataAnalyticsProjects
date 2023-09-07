@@ -1,4 +1,4 @@
-**Project Title**: COVID-19 Data Analysis and Visualization
+**COVID-19 Data Analysis and Visualization**
 
 ![image](https://github.com/bharawdwajrahul/DataAnalyticsProjects/assets/76405542/70365cb7-f2c6-4cbb-8ac9-eea153467cc8)
 
